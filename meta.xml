@@ -1,0 +1,5 @@
+<meta>
+	<info author="Casti" type="script" name="Save System" />
+	<script src="g_Save.lua" type="server" />
+	<script src="s_Save.lua" type="server" />
+</meta>
